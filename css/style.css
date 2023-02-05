@@ -67,7 +67,7 @@ ul {
     padding: 10px 20px;
     border: none;
     transition: 0.3s;
-    border-radius: 16px;
+    border-radius: 10px;
 }
 .hoverme:hover {
     background-color:#F1D8CF;
@@ -106,6 +106,12 @@ button {
     text-align: center;
     margin-right: 465px;
     padding: 25px;
+}
+.workcontain {
+    display: inline-block;
+    text-align: center;
+    margin-left: 620px;
+    margin-bottom: 20px;
 }
 .email {
     font-family: "source-sans-3", sans-serif;
